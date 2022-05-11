@@ -1,0 +1,6 @@
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter2\ConstantVariableDeclarations\bin\Debug\ConstantVariableDeclarations.exe.config
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter2\ConstantVariableDeclarations\bin\Debug\ConstantVariableDeclarations.exe
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter2\ConstantVariableDeclarations\bin\Debug\ConstantVariableDeclarations.pdb
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter2\ConstantVariableDeclarations\obj\Debug\ConstantVariableDeclarations.csproj.CoreCompileInputs.cache
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter2\ConstantVariableDeclarations\obj\Debug\ConstantVariableDeclarations.exe
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter2\ConstantVariableDeclarations\obj\Debug\ConstantVariableDeclarations.pdb
