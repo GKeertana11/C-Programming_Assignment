@@ -1,0 +1,6 @@
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter5\CheckingnameInfoExampleofStringBuilder\bin\Debug\CheckingnameInfoExampleofStringBuilder.exe.config
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter5\CheckingnameInfoExampleofStringBuilder\bin\Debug\CheckingnameInfoExampleofStringBuilder.exe
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter5\CheckingnameInfoExampleofStringBuilder\bin\Debug\CheckingnameInfoExampleofStringBuilder.pdb
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter5\CheckingnameInfoExampleofStringBuilder\obj\Debug\CheckingnameInfoExampleofStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter5\CheckingnameInfoExampleofStringBuilder\obj\Debug\CheckingnameInfoExampleofStringBuilder.exe
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter5\CheckingnameInfoExampleofStringBuilder\obj\Debug\CheckingnameInfoExampleofStringBuilder.pdb
