@@ -1,0 +1,6 @@
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter3\DataTypesAndvariables\bin\Debug\DataTypesAndvariables.exe.config
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter3\DataTypesAndvariables\bin\Debug\DataTypesAndvariables.exe
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter3\DataTypesAndvariables\bin\Debug\DataTypesAndvariables.pdb
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter3\DataTypesAndvariables\obj\Debug\DataTypesAndvariables.csproj.CoreCompileInputs.cache
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter3\DataTypesAndvariables\obj\Debug\DataTypesAndvariables.exe
+C:\Users\Keertana.Govte\Desktop\Unity\Assignments_UnityC#\Assets\Chapter3\DataTypesAndvariables\obj\Debug\DataTypesAndvariables.pdb
